@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="derpydialogue.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="annoyed0000" x="0" y="0" width="597" height="800"/>
+	<SubTexture name="dying0000" x="597" y="0" width="597" height="800"/>
+	<SubTexture name="dying0001" x="597" y="0" width="597" height="800"/>
+	<SubTexture name="dying0002" x="597" y="0" width="597" height="800"/>
+	<SubTexture name="dying0003" x="597" y="0" width="597" height="800"/>
+	<SubTexture name="dying0004" x="597" y="0" width="597" height="800"/>
+	<SubTexture name="dying0005" x="597" y="0" width="597" height="800"/>
+	<SubTexture name="dying0006" x="597" y="0" width="597" height="800"/>
+	<SubTexture name="dying0007" x="597" y="0" width="597" height="800"/>
+	<SubTexture name="dying0008" x="597" y="0" width="597" height="800"/>
+	<SubTexture name="dying0009" x="597" y="0" width="597" height="800"/>
+	<SubTexture name="dying0010" x="597" y="0" width="597" height="800"/>
+	<SubTexture name="dying0011" x="597" y="0" width="597" height="800"/>
+	<SubTexture name="dying0012" x="597" y="0" width="597" height="800"/>
+	<SubTexture name="dying0013" x="597" y="0" width="597" height="800"/>
+	<SubTexture name="dying0014" x="1194" y="0" width="597" height="800"/>
+	<SubTexture name="glitch0000" x="1791" y="0" width="597" height="800"/>
+	<SubTexture name="glitch0001" x="2388" y="0" width="597" height="800"/>
+	<SubTexture name="glitch0002" x="2985" y="0" width="597" height="800"/>
+	<SubTexture name="hurt0000" x="0" y="800" width="597" height="800"/>
+	<SubTexture name="sweating0000" x="597" y="800" width="597" height="800"/>
+	<SubTexture name="talking0000" x="1194" y="800" width="597" height="800"/>
+	<SubTexture name="talkingleft0000" x="1791" y="800" width="597" height="800"/>
+	<SubTexture name="tired0000" x="2388" y="800" width="597" height="800"/>
+</TextureAtlas>

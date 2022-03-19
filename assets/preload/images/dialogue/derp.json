@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		40,
+		-170
+	],
+	"scale": 0.95,
+	"animations": [
+		{
+			"loop_name": "talking0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talking0000",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "talkingleft0000",
+			"idle_offsets": [
+				0,
+				-3
+			],
+			"idle_name": "talkingleft0000",
+			"anim": "left",
+			"loop_offsets": [
+				0,
+				-3
+			]
+		},
+		{
+			"loop_name": "annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "annoyed",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "sweating",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sweating",
+			"anim": "sweat",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "tired",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "tired",
+			"anim": "tired",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "hurt",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "hurt",
+			"anim": "hurt",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dying",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dying",
+			"anim": "dying",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "glitch",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "glitch",
+			"anim": "glitch",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "derpydialogue"
+}

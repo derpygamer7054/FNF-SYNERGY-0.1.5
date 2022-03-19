@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "derp",
+			"boxState": "normal",
+			"expression": "dying",
+			"text": "ugh- what happened.....?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop skeep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "derp",
+			"boxState": "angry",
+			"expression": "hurt",
+			"text": "wait- THE HOUSE!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lmao"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "derp",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "................."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "derp",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": ".....fuck you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "a-"
+		}
+	]
+}

@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "huh?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "left",
+			"text": "oh, it's you again.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		},
+		{
+			"expression": "excited",
+			"text": "skee boo bep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "tired",
+			"text": "sorry dude, not really in the mood for it \\ntoday.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		},
+		{
+			"expression": "shocked",
+			"text": "beep boo bee!!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sweat",
+			"text": "look, we've tried making this possible like\\nthree times already.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		},
+		{
+			"expression": "tired",
+			"text": "I doubt this song is even going to make it into a mod.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		},
+		{
+			"expression": "pissed",
+			"text": "badoo beep skdee bop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "oh really? um. neat, i guess.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		},
+		{
+			"expression": "excited",
+			"text": "yeah!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "annoyed",
+			"text": "ugh. fine.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		},
+		{
+			"expression": "talk",
+			"text": "bap bee boo!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

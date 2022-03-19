@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "tired",
+			"text": "look bud, i'm really not in the mood right now.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		},
+		{
+			"expression": "annoyed",
+			"text": "it's been a long few weeks, i'm tired.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		},
+		{
+			"expression": "talk",
+			"text": "beep boo bee",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sweat",
+			"text": "i'm not joking around, you don't know what'll happen if-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		},
+		{
+			"expression": "talk",
+			"text": "bep bop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "annoyed",
+			"text": "yeah, yeah. it's all fun and games until\\nsomebody gets hurt.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		},
+		{
+			"expression": "annoyed",
+			"text": "you really like testing people's limits, don't you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		},
+		{
+			"expression": "excited",
+			"text": "badeep skee.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "tired",
+			"text": "don't say i didn't warn you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		}
+	]
+}

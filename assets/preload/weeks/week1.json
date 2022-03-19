@@ -1,0 +1,49 @@
+{
+	"storyName": "Malware melody",
+	"difficulties": "Hard, expert",
+	"hideFreeplay": false,
+	"weekBackground": "house",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Synergy",
+			"derp",
+			[
+				255,
+				53,
+				0
+			]
+		],
+		[
+			"Viral",
+			"derp",
+			[
+				255,
+				53,
+				0
+			]
+		],
+		[
+			"Haywire",
+			"haywire",
+			[
+				255,
+				53,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"derp",
+		"synergybf",
+		"synergygf"
+	],
+	"weekName": "Week Derp"
+}

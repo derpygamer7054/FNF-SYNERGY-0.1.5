@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M GF Idle",
+	"idle_anim": "Idle",
+	"position": [
+		420,
+		596
+	],
+	"scale": 0.3,
+	"image": "Derp_assets"
+}

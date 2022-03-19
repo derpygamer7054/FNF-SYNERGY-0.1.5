@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				53,
+				21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				1,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				3,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-71,
+				35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Haywire",
+	"position": [
+		-360,
+		-410
+	],
+	"healthicon": "icon-haywire",
+	"flip_x": false,
+	"healthbar_colors": [
+		9,
+		255,
+		0
+	],
+	"camera_position": [
+		380,
+		370
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

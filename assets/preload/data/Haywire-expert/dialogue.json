@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "derp",
+			"boxState": "normal",
+			"expression": "hurt",
+			"text": "urk-!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "skeep boo?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "derp",
+			"boxState": "normal",
+			"expression": "dying",
+			"text": "no....... it's- happening again-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "bapeeboo-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "derp",
+			"boxState": "normal",
+			"expression": "dying",
+			"text": "I- warned you- ugh!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bedee skee?!?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "derp",
+			"boxState": "normal",
+			"expression": "dying",
+			"text": "R-Run while you still- urgh! can....."
+		},
+		{
+			"speed": 0.02,
+			"portrait": "derp",
+			"boxState": "angry",
+			"expression": "glitch",
+			"text": "AWDWEHBE$Y^T#$%&3#$%%$^@%#$&564367ujrtnggwgdsdfthriyrtiyutoyuoyuioyuoyiuueiro6e45gtvd bd56t2$^YHG@GT$#^%TF$@$&*UIJN#&$UHJNBWfvsdhgy5675YGYHB#%YTGV35gyhtytryrq45r325tgr54eyhb4t6yg4h56uhb5ij7yye56ujhnb53nb54ha"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "!!!!!!"
+		}
+	]
+}
