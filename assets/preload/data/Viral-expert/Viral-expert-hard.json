@@ -223,6 +223,90 @@
 						19100,
 						1,
 						0
+					],
+					[
+						17600,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						17600,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						17700,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						17900,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						17900,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						18000,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						18200,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						18300,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						18400,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						18600,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						18700,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						18600,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						18500,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						19000,
+						2,
+						0,
+						"glitchnote"
 					]
 				],
 				"mustHitSection": false
@@ -597,14 +681,129 @@
 						0
 					],
 					[
-						30200,
-						1,
-						0
-					],
-					[
 						30300,
 						0,
 						0
+					],
+					[
+						29600,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						29700,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						29767.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						29717.5,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						29675,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						29805,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						29680,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						29900,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						30025,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						29970,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						29880,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						29900,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						30000,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						30000,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						30257.5,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						30207.5,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						30300,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						30245,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						30282.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						30100,
+						1,
+						0,
+						"glitchnote"
 					]
 				],
 				"mustHitSection": false
@@ -671,6 +870,96 @@
 						31900,
 						3,
 						0
+					],
+					[
+						31400,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						31400,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						31500,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						31500,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						31722.5,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						31670,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						31600,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						31742.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						31642.5,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						31900,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						31300,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						31302.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						31265,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						31200,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						31200,
+						0,
+						0,
+						"glitchnote"
 					]
 				],
 				"mustHitSection": false
@@ -1577,7 +1866,7 @@
 					[
 						57600,
 						7,
-						1500
+						1200
 					],
 					[
 						57800,
@@ -1719,7 +2008,7 @@
 					[
 						60800,
 						5,
-						1500
+						650
 					]
 				],
 				"mustHitSection": false
@@ -1727,6 +2016,66 @@
 			{
 				"lengthInSteps": 16,
 				"sectionNotes": [
+					[
+						62400,
+						7,
+						0
+					],
+					[
+						62600,
+						6,
+						0
+					],
+					[
+						62800,
+						5,
+						0
+					],
+					[
+						63000,
+						4,
+						0
+					],
+					[
+						63200,
+						7,
+						0
+					],
+					[
+						63300,
+						6,
+						0
+					],
+					[
+						63400,
+						5,
+						0
+					],
+					[
+						63500,
+						4,
+						0
+					],
+					[
+						63600,
+						5,
+						0
+					],
+					[
+						63700,
+						6,
+						0
+					],
+					[
+						63800,
+						7,
+						0
+					],
+					[
+						63900,
+						6,
+						0
+					],
 					[
 						62400,
 						0,
@@ -1809,63 +2158,87 @@
 					],
 					[
 						62400,
-						7,
-						0
+						1,
+						0,
+						"glitchnote"
 					],
 					[
-						62600,
-						6,
-						0
+						62400,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						62500,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						62700,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						62700,
+						0,
+						0,
+						"glitchnote"
 					],
 					[
 						62800,
-						5,
-						0
+						0,
+						0,
+						"glitchnote"
 					],
 					[
 						63000,
-						4,
-						0
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						63100,
+						2,
+						0,
+						"glitchnote"
 					],
 					[
 						63200,
-						7,
-						0
-					],
-					[
-						63300,
-						6,
-						0
+						3,
+						0,
+						"glitchnote"
 					],
 					[
 						63400,
-						5,
-						0
+						0,
+						0,
+						"glitchnote"
 					],
 					[
 						63500,
-						4,
-						0
+						1,
+						0,
+						"glitchnote"
 					],
 					[
-						63600,
-						5,
-						0
+						63400,
+						1,
+						0,
+						"glitchnote"
 					],
 					[
-						63700,
-						6,
-						0
+						63300,
+						1,
+						0,
+						"glitchnote"
 					],
 					[
 						63800,
-						7,
-						0
-					],
-					[
-						63900,
-						6,
-						0
+						2,
+						0,
+						"glitchnote"
 					]
 				],
 				"mustHitSection": false
@@ -2140,7 +2513,7 @@
 					[
 						70400,
 						7,
-						1500
+						1200
 					],
 					[
 						70600,
@@ -2282,7 +2655,7 @@
 					[
 						73600,
 						5,
-						1500
+						700
 					]
 				],
 				"mustHitSection": false
@@ -2429,6 +2802,170 @@
 						76700,
 						6,
 						0
+					],
+					[
+						75200,
+						0,
+						0
+					],
+					[
+						75300,
+						1,
+						0
+					],
+					[
+						75400,
+						2,
+						0
+					],
+					[
+						75500,
+						3,
+						0
+					],
+					[
+						75600,
+						2,
+						0
+					],
+					[
+						75700,
+						1,
+						0
+					],
+					[
+						75800,
+						0,
+						0
+					],
+					[
+						75900,
+						1,
+						0
+					],
+					[
+						76000,
+						2,
+						0
+					],
+					[
+						76100,
+						3,
+						0
+					],
+					[
+						76200,
+						2,
+						0
+					],
+					[
+						76300,
+						3,
+						0
+					],
+					[
+						76400,
+						2,
+						0
+					],
+					[
+						76500,
+						1,
+						0
+					],
+					[
+						76600,
+						0,
+						0
+					],
+					[
+						76700,
+						1,
+						0
+					],
+					[
+						75200,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						75200,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						75300,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						75500,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						75500,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						75600,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						75800,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						75900,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						76000,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						76200,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						76300,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						76200,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						76100,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						76600,
+						2,
+						0,
+						"glitchnote"
 					]
 				],
 				"mustHitSection": false
@@ -2597,6 +3134,108 @@
 						81500,
 						3,
 						0
+					],
+					[
+						80800,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						80860,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						80902.5,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						80995,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						80960,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						81017.5,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						80962.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						81172.5,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						81160,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						81125,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						81147.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						81330,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						81260,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						81307.5,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						81330,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						81407.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						81542.5,
+						2,
+						0,
+						"glitchnote"
 					]
 				],
 				"mustHitSection": false
@@ -2663,6 +3302,120 @@
 						83100,
 						1,
 						0
+					],
+					[
+						82400,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						82490,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						82432.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						82600,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						82582.5,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						82600,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						82662.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						82700,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						82802.5,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						82780,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						82800,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						82500,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						82800,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						82770,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						82900,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						82900,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						83037.5,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						83000,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						82900,
+						1,
+						0,
+						"glitchnote"
 					]
 				],
 				"mustHitSection": false
@@ -4595,6 +5348,170 @@
 						134300,
 						1,
 						0
+					],
+					[
+						132800,
+						0,
+						0
+					],
+					[
+						132900,
+						1,
+						0
+					],
+					[
+						133000,
+						2,
+						0
+					],
+					[
+						133100,
+						3,
+						0
+					],
+					[
+						133200,
+						2,
+						0
+					],
+					[
+						133300,
+						1,
+						0
+					],
+					[
+						133400,
+						0,
+						0
+					],
+					[
+						133500,
+						1,
+						0
+					],
+					[
+						133600,
+						2,
+						0
+					],
+					[
+						133700,
+						3,
+						0
+					],
+					[
+						133800,
+						2,
+						0
+					],
+					[
+						133900,
+						3,
+						0
+					],
+					[
+						134000,
+						2,
+						0
+					],
+					[
+						134100,
+						1,
+						0
+					],
+					[
+						134200,
+						0,
+						0
+					],
+					[
+						134300,
+						1,
+						0
+					],
+					[
+						132800,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						132800,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						132900,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						133100,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						133100,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						133200,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						133400,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						133500,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						133600,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						133800,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						133900,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						133800,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						133700,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						134200,
+						2,
+						0,
+						"glitchnote"
 					]
 				],
 				"mustHitSection": false
@@ -4969,14 +5886,159 @@
 						0
 					],
 					[
-						145400,
-						1,
-						0
-					],
-					[
 						145500,
 						0,
 						0
+					],
+					[
+						144800,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						144905,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						144835,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						144935,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						144832.5,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						145082.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						145185,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						144980,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						144937.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						145055,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						145032.5,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						145035,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						145237.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						145217.5,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						145345,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						145332.5,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						145315,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						145342.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						145427.5,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						145537.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						145440,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						145545,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						145542.5,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						145457.5,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						145470,
+						2,
+						0,
+						"glitchnote"
 					]
 				],
 				"mustHitSection": false
@@ -5043,6 +6105,150 @@
 						147100,
 						3,
 						0
+					],
+					[
+						146400,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						146500,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						146400,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						146570,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						146532.5,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						146430,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						146400,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						146600,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						146705,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						146622.5,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						146800,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						147032.5,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						146977.5,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						146917.5,
+						3,
+						0,
+						"glitchnote"
+					],
+					[
+						147000,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						146965,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						146935,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						146700,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						146842.5,
+						0,
+						0,
+						"glitchnote"
+					],
+					[
+						146700,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						146900,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						147132.5,
+						2,
+						0,
+						"glitchnote"
+					],
+					[
+						147125,
+						1,
+						0,
+						"glitchnote"
+					],
+					[
+						147000,
+						1,
+						0,
+						"glitchnote"
 					]
 				],
 				"mustHitSection": false
@@ -5821,6 +7027,176 @@
 				"bpm": 150
 			},
 			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
 				"gfSection": false,
 				"lengthInSteps": 16,
 				"altAnim": false,
@@ -5832,7 +7208,262 @@
 			}
 		],
 		"gfVersion": "gfsynergy",
-		"events": [],
+		"events": [
+			[
+				6400,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				17600,
+				[
+					[
+						"Change Character",
+						"1",
+						"derpglitch"
+					]
+				],
+				null,
+				"glitchnote"
+			],
+			[
+				19200,
+				[
+					[
+						"Change Character",
+						"1",
+						"derp"
+					]
+				]
+			],
+			[
+				29600,
+				[
+					[
+						"Change Character",
+						"1",
+						"derpglitch"
+					]
+				]
+			],
+			[
+				30400,
+				[
+					[
+						"Change Character",
+						"1",
+						"derp"
+					]
+				]
+			],
+			[
+				31200,
+				[
+					[
+						"Change Character",
+						"1",
+						"derpglitch"
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Change Character",
+						"1",
+						"derp"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				38500,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				44800,
+				[
+					[
+						"Set Cam Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Change Character",
+						"1",
+						"derpglitch"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"1",
+						"derp"
+					]
+				]
+			],
+			[
+				75200,
+				[
+					[
+						"Change Character",
+						"1",
+						"derpglitch"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Change Character",
+						"1",
+						"derp"
+					]
+				]
+			],
+			[
+				80800,
+				[
+					[
+						"Change Character",
+						"1",
+						"derpglitch"
+					]
+				],
+				null,
+				"glitchnote"
+			],
+			[
+				81600,
+				[
+					[
+						"Change Character",
+						"1",
+						"derp"
+					]
+				]
+			],
+			[
+				82400,
+				[
+					[
+						"Change Character",
+						"1",
+						"derpglitch"
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Change Character",
+						"1",
+						"derp"
+					]
+				]
+			],
+			[
+				132800,
+				[
+					[
+						"Change Character",
+						"1",
+						"derpglitch"
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Change Character",
+						"1",
+						"derp"
+					]
+				]
+			],
+			[
+				144800,
+				[
+					[
+						"Change Character",
+						"1",
+						"derpglitch"
+					]
+				]
+			],
+			[
+				145600,
+				[
+					[
+						"Change Character",
+						"1",
+						"derp"
+					]
+				]
+			],
+			[
+				146400,
+				[
+					[
+						"Change Character",
+						"1",
+						"derpglitch"
+					]
+				]
+			],
+			[
+				147200,
+				[
+					[
+						"Change Character",
+						"1",
+						"derp"
+					]
+				]
+			]
+		],
 		"player3": null,
 		"song": "Viral",
 		"stage": "Derphouse",

@@ -1,67 +1,67 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "derp",
-			"boxState": "normal",
 			"expression": "hurt",
-			"text": "urk-!"
+			"text": "urk-!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "confused",
-			"text": "skeep boo?"
+			"text": "skeep boo?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "derp",
-			"boxState": "normal",
 			"expression": "dying",
-			"text": "no....... it's- happening again-"
+			"text": "no....... it's- happening again-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "shocked",
-			"text": "bapeeboo-"
+			"text": "bapeeboo-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "derp",
-			"boxState": "normal",
 			"expression": "dying",
-			"text": "I- warned you- ugh!"
+			"text": "What the fuck are you standing around for?! run, dammit!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "confused",
-			"text": "bedee skee?!?!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "derp",
+			"text": "bedee skee?!?!",
 			"boxState": "normal",
-			"expression": "dying",
-			"text": "R-Run while you still- urgh! can....."
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.02,
-			"portrait": "derp",
-			"boxState": "angry",
+			"expression": "dying",
+			"text": "G-god..... I never liked- ugh! you....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		},
+		{
 			"expression": "glitch",
-			"text": "AWDWEHBE$Y^T#$%&3#$%%$^@%#$&564367ujrtnggwgdsdfthriyrtiyutoyuoyuioyuoyiuueiro6e45gtvd bd56t2$^YHG@GT$#^%TF$@$&*UIJN#&$UHJNBWfvsdhgy5675YGYHB#%YTGV35gyhtytryrq45r325tgr54eyhb4t6yg4h56uhb5ij7yye56ujhnb53nb54ha"
+			"text": "AWDWEHBE$Y^T#$%&3#$%%$^@%#$&564367ujrtnggwgdsdfthriyrtiyutoyuoyuioyuoyiuueiro6e45gtvd bd56t2$^YHG@GT$#^%TF$@$&*UIJN#&$UHJNBWfvsdhgy5675YGYHB#%YTGV35gyhtytryrq45r325tgr54eyhb4t6yg4h56uhb5ij7yye56ujhnb53nb54ha",
+			"boxState": "angry",
+			"speed": 0.02,
+			"portrait": "derp"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "angry",
 			"expression": "shocked",
-			"text": "!!!!!!"
+			"text": "!!!!!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
 		}
 	]
 }

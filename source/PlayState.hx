@@ -3174,7 +3174,7 @@ class PlayState extends MusicBeatState
 		if(achievementObj != null) {
 			return;
 		} else {
-			var achieve:String = checkForAchievement(['friday_night_play', 'week1', 'derp_nomiss', 'madlad', 'Cracked']);
+			var achieve:String = checkForAchievement(['friday_night_play', 'week1', 'derp_nomiss', 'madlad', 'Cracked', 'pico', 'deal']);
 
 			if(achieve != null) {
 				startAchievement(achieve);
@@ -4466,6 +4466,14 @@ class PlayState extends MusicBeatState
 						}
 					case 'Cracked':
 						if(Paths.formatToSongPath(SONG.song) == 'derpy' && !usedPractice) {
+							unlock = true;
+						}
+					case 'pico':
+						if(Paths.formatToSongPath(SONG.song) == 'synergy-pico-side' && !usedPractice) {
+							unlock = true;
+						}
+					case 'deal':
+						if(Paths.formatToSongPath(SONG.song) == 'derpys-gambit' && !usedPractice) {
 							unlock = true;
 					
 						}

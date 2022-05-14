@@ -1,0 +1,4 @@
+Create a flash effect.
+(Flash image file located in images)
+
+Value1 changes what image flashes on screen

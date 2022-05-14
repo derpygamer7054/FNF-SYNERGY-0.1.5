@@ -16,6 +16,8 @@ class Achievements {
 		["how",				"Beat week 1 with no misses",				'derp_nomiss',			false],
 		["You fucking madman",		"Beat Haywire on expert difficulty",				'madlad',			false],
 		["Cracked at the craft",				"Beat Derpy",				'Cracked',			false],
+		["go pico yeah yeah go pico oh",				"Beat Synergy pico side",				'pico',			false],
+		["Dealin with Derpy",				"Beat Derpys gambit",				'deal',			false],
 	];
 	public static var achievementsMap:Map<String, Bool> = new Map<String, Bool>();
 

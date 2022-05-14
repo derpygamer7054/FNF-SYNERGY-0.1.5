@@ -1,53 +1,60 @@
 {
 	"dialogue": [
-		{
-			"speed": 0.05,
-			"portrait": "derp",
+                {
+			"expression": "talk",
+			"text": "ba bebo ba bapeebobeebaboo ba bapee",
 			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
 			"expression": "dying",
-			"text": "ugh- what happened.....?"
+			"text": "ugh- what happened.....?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "beep bop skeep"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "derp",
-			"boxState": "angry",
-			"expression": "hurt",
-			"text": "wait- THE HOUSE!!!!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
+			"text": "beep bop skeep",
 			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Ugh.... god damn it. you really needed to do that, didn't you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
+		},
+		{
 			"expression": "talk",
-			"text": "lmao"
+			"text": "lmao",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "derp",
-			"boxState": "normal",
 			"expression": "annoyed",
-			"text": "................."
+			"text": ".................",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "derp",
-			"boxState": "normal",
 			"expression": "annoyed",
-			"text": ".....fuck you."
+			"text": ".....fuck you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "derp"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "shocked",
-			"text": "a-"
+			"text": "a-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		}
 	]
 }

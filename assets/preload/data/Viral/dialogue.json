@@ -1,67 +1,110 @@
 {
 	"dialogue": [
 		{
-			"expression": "tired",
-			"text": "look bud, i'm really not in the mood right now.",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "derp"
-		},
-		{
-			"expression": "annoyed",
-			"text": "it's been a long few weeks, i'm tired.",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "derp"
-		},
-		{
 			"expression": "talk",
-			"text": "beep boo bee",
+			"text": "Hey- your hair is-",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
-			"expression": "sweat",
-			"text": "i'm not joking around, you don't know what'll happen if-",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "derp"
+			"portrait": "derp",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
 			"text": "bep bop",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
-			"expression": "annoyed",
-			"text": "yeah, yeah. it's all fun and games until\\nsomebody gets hurt.",
+			"expression": "sweat",
+			"text": "How uh- how did you do that?",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "derp"
+			"portrait": "derp",
+			"speed": 0.05
 		},
 		{
-			"expression": "annoyed",
-			"text": "you really like testing people's limits, don't you?",
+			"expression": "sweat",
+			"text": "Normally it takes at least 2 people to perfom synergy.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "derp"
+			"portrait": "derp",
+			"speed": 0.05
 		},
 		{
 			"expression": "excited",
 			"text": "badeep skee.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "tired",
-			"text": "don't say i didn't warn you.",
+			"text": "Look, i'm not sure you know what kind of power you're dealing with.",
 			"boxState": "normal",
+			"portrait": "derp",
+			"speed": 0.05
+		},
+		{
+			"sound": "",
 			"speed": 0.05,
-			"portrait": "derp"
+			"portrait": "derp",
+			"boxState": "normal",
+			"expression": "sweat",
+			"text": "I mean for all we know this power could be so much more than-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "derp",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "....for kickstarting your rapping career."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "derp",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well, suit yourself i guess. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "derp",
+			"boxState": "normal",
+			"expression": "sweat",
+			"text": "but a power like this is often sought after by people who want to use it for evil-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "derp",
+			"boxState": "normal",
+			"expression": "tired",
+			"text": "just don't say i didn't warn you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bedee skee bo?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "derp",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "fine, fine. let's do the next song and get this over with."
 		}
 	]
 }

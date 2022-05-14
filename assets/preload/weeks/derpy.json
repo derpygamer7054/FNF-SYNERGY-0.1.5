@@ -3,18 +3,14 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "",
+	"weekBefore": "week1",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "week1",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": true,
 	"songs": [
 		[
 			"Derpy",
@@ -24,9 +20,22 @@
 				0,
 				0
 			]
+		],
+		[
+			"Synergy-pico-side",
+			"pico",
+			[
+				226,
+				255,
+				55
+			]
 		]
 	],
-	"hideStoryMode": true,
-	"weekName": "Derpy",
-	"hiddenUntilUnlocked": true
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Derpy"
 }

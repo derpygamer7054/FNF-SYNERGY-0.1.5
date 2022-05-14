@@ -82,13 +82,12 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 		['FNF Synergy Team'],
-			['Derpygamer',		'derpy',		'Cool owner of the mod. Coded and made art and music for the mod',							'https://www.youtube.com/channel/UCDt0Rpcfc_--lkh6nPjos7A',	'FF2D00'],
-			['Vandrawn',			'Vandrawn',		'Drew the icons and logo and helped conceptualise backgrounds',						'https://www.youtube.com/channel/UCahD-W4iJ2oibnmGyunlz8g',		'827AEB'],
+			['Derpygamer',		'derpy',		'Cool owner of the mod. Coded and made art and music for the mod, also the voice of Derp.',							'https://www.youtube.com/channel/UCDt0Rpcfc_--lkh6nPjos7A',	'FF2D00'],
+			['Asho',				'asho',			'Additional coding help',					'https://www.youtube.com/watch?v=p8Zybrz7dxc',			'FF2D00'],
 			['Luffydestroyer',				'luffy',			'Lead charter',					'https://www.youtube.com/channel/UC0lzEpOkuIBamnMImoy7_AA',			'3A50DC'],
-			['Calvertvyllmos',				'calvertvy',			'Made art for glitch notes',					'https://mobile.twitter.com/calvertvyllmos',			'871CA9'],
+			['Vandrawn',			'Vandrawn',		'Drew the icons and logo and helped conceptualise backgrounds',						'https://www.youtube.com/channel/UCahD-W4iJ2oibnmGyunlz8g',		'827AEB'],
 			['Bladedmatt',				'bladed',			'assistant charter',					'https://www.youtube.com/channel/UC_8wgyoZvqOR-L6X4JmHL-g',			'EEFC8F'],
 			['Bruggiez aka dreamish',				'bruggiez',			'Made title and pause menu themes',					'https://www.youtube.com/c/brycemeaghertheretard',			'00E8FF'],
-			['Asho',				'asho',			'',					'https://www.youtube.com/watch?v=p8Zybrz7dxc',			'FF2D00'],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',						'https://twitter.com/RiverOaken',		'C30085'],

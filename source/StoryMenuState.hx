@@ -103,7 +103,7 @@ class StoryMenuState extends MusicBeatState
 				loadedWeeks.push(weekFile);
 				WeekData.setDirectoryFromWeek(weekFile);
 				var weekThing:MenuItem = new MenuItem(0, bgSprite.y + 396, WeekData.weeksList[i]);
-				weekThing.y += ((weekThing.height + 20) * num);
+				weekThing.y += ((weekThing.height + 50) * num);
 				weekThing.targetY = num;
 				grpWeekText.add(weekThing);
 
@@ -384,7 +384,7 @@ class StoryMenuState extends MusicBeatState
 			if (item.targetY == Std.int(0) && unlocked)
 				item.alpha = 1;
 			else
-				item.alpha = 0.6;
+				item.alpha = 0.3;
 			bullShit++;
 		}
 

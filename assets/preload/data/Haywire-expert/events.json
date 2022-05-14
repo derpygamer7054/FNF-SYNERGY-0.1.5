@@ -1,0 +1,271 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "Derphousenight",
+		"player1": "bfsynergynight2",
+		"player2": "derpglitch",
+		"player3": null,
+		"events": [
+			[
+				6545.45454545455,
+				[
+					[
+						"CameraControl",
+						"1450,1050",
+						"1.5"
+					]
+				]
+			],
+			[
+				6613.63636363636,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				6681.81818181818,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				6750,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"BF"
+					]
+				]
+			],
+			[
+				6818.18181818182,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"BF"
+					]
+				]
+			],
+			[
+				6886.36363636364,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				6954.54545454545,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				7022.72727272727,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"BF"
+					]
+				]
+			],
+			[
+				7090.90909090909,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"BF"
+					]
+				]
+			],
+			[
+				7159.09090909091,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				7227.27272727273,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				7295.45454545455,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"BF"
+					]
+				]
+			],
+			[
+				7363.63636363636,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"BF"
+					]
+				]
+			],
+			[
+				7431.81818181818,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				7500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				7568.18181818182,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"BF"
+					]
+				]
+			],
+			[
+				7636.36363636364,
+				[
+					[
+						"CameraControl",
+						"200,750",
+						"1.5"
+					]
+				]
+			],
+			[
+				7704.54545454545,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfsynergynight"
+					]
+				]
+			],
+			[
+				7772.72727272727,
+				[
+					[
+						"Alt Idle Animation",
+						"BF",
+						"-alt"
+					]
+				],
+				null,
+				"healnote"
+			],
+			[
+				8659.09090909091,
+				[
+					[
+						"Set Cam Zoom",
+						"0.65",
+						""
+					]
+				]
+			],
+			[
+				8727.27272727273,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				212727.272727272,
+				[
+					[
+						"Play_1_Part_of_Countdown",
+						"ready",
+						"intro3"
+					]
+				]
+			],
+			[
+				213000,
+				[
+					[
+						"Play_1_Part_of_Countdown",
+						"set",
+						"intro2"
+					]
+				]
+			],
+			[
+				213272.727272727,
+				[
+					[
+						"Play_1_Part_of_Countdown",
+						"go",
+						"intro1"
+					]
+				]
+			],
+			[
+				213545.454545454,
+				[
+					[
+						"Play_1_Part_of_Countdown",
+						"",
+						"introGo"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfsynergynight",
+		"bpm": 220,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "haywire-expert"
+	}
+}
